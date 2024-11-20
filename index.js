@@ -15,4 +15,4 @@ const combinedUsers = {
   users: [...filteredNewUsers],
 };
 
-console.log(combinedUsers)
+console.log("Added a new feature")
